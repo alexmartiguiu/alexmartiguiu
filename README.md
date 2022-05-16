@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexmartiguiu
 - 👀 I’m interested in Deep Learning, Computer Vision, Multiple Object Tracking, Sports Analytics
 - 🌱 I’m currently learning advanced Deep Learning & Computer Vision
-- 💞️ I’m looking to collaborate on applied projects
 - 📫 How to reach me: alex.marti.guiu@estudiantat.upc.edu
 
 <!---
